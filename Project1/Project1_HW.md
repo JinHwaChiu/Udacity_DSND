@@ -26,9 +26,11 @@ There are 1 notebooks available to demonstrate the analysis results for above qu
   
 
 ## Results<a name="results"></a>
+Please see my blog post at [here](https://medium.com/@jkmemo2013/how-often-do-you-visit-the-stackoverflow-ff396221b0cb)  
+For Q1, we can see the first three development types are full-stack, back-end, front-end
+With only the chart of Language Have Worked With we can't tell what developer types are dominating numbers in our survey, each person with a specific development type could have mulitple language skills, like: Person A with back-end developer may have javascript, HTML/CSS skill too. However, with the chart of development type. we can say full-stack is our first dominating developer types in our survey population
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
-
+For Q2,3, although the compensation frequency appears to be one of the top indicators for both the frequency of visiting and the frequency of articipan; However, comparing to coefficient ranking btw Q2 and Q3 results, we can see that people have employment in organization have higher participant.  
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The Stack Overflow data used in this project is available  [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  
+The Stack Overflow data used in this project is available  [here](https://insights.stackoverflow.com/survey).  
