@@ -159,7 +159,7 @@ def return_figures(countries=country_default):
 
         text = []
         for country, year in zip(country_label, years):
-            text.append(str(country) + ' ' + str(year))
+          text.append(str(country) + ' ' + str(year))
 
         graph_four.append(
           go.Scatter(
