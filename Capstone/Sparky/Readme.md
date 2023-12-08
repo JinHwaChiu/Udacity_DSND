@@ -14,6 +14,7 @@
 - pandas
 - matplotlib 
 - seaborn
+- plotly
 - datetime
 
 ## Project Definition: <a name="projectdefinition"/>
