@@ -26,8 +26,8 @@ In this project, our goal is handling a customer churn problem by building predi
 ## Files: <a name="datafiles"/>
 ##### There are three data sets provided with the project:
 
-- 'Sparkify.ipynb:' : The main coding file in jypyter notebook format to work in Udacity workspace.
-- 'Sparkify.ipynb' : an HTML file for the jupyter workbook.
+- 'Sparkify_Capstone.ipynb:' : The main coding file in jypyter notebook format to work in Udacity workspace.
+- 'Sparkify_Capstone.ipynb' : an HTML file for the jupyter workbook.
 - 'README.md' : This file.
 
 ## Instructions: <a name="instructions"/>
