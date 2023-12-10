@@ -30,6 +30,10 @@ In this project, our goal is handling a customer churn problem by building predi
 - 'Sparkify_Capstone.ipynb' : an HTML file for the jupyter workbook.
 - 'README.md' : This file.
 
+
+## Acknowledgements:
+The project thanks the user francisjo reference
+
 ## Instructions: <a name="instructions"/>
 The data is provided by Sparkify for the Udacity Data Science Nanodegree Program. Please see the jupyter note book file for the detail analysis.
 
